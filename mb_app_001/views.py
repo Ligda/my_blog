@@ -9,4 +9,4 @@ from django.http import HttpResponse
 # Create your views here.
 # 创建响应函数
 def index(request):
-    return(HttpResponse('Hello,world!'))
+    return(HttpResponse("Hello,world! I'm so happy to learning python!"))
