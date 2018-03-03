@@ -1,2 +1,2 @@
 # my_blog
-creat my blog
+create my blog
